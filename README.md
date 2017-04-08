@@ -8,3 +8,5 @@ Zaimplementowane metody:
 2) Metoda z wykorzystaniem algorytmu "a trous" (a_trous.m & edgedet.m)
 3) Modyfikacja współczynników aproksymacji - canny (a_trous.m & modaproks1.m)
 4) Wieloskalowa detekcja krawędzi (multiedge.m)
+
+Zawiera kilka nieuporządkowanych plików - funkcji. Opis teoretyczny zastosowanych metod oraz analiza wyników w pliku pdf.
